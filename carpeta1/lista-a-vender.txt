@@ -1,1 +1,1 @@
-router memoria
+router memoria disco
